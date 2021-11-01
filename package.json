@@ -2,7 +2,7 @@
     "name": "exolot",
     "version": "1.2.0",
     "private": true,
-    "homepage": "/tf-jsx-demo/exolot/",
+    "homepage": "/",
     "dependencies": {
         "animate.css": "^3.7.2",
         "axios": "^0.18.1",
